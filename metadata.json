@@ -1,0 +1,8 @@
+{
+  "name": "SmartDesk Pro - NextGen IT & Developer Operations Hub",
+  "description": "Futuristic, ultra-polished IT service desk, incident management, asset tracking, developer code vault, and AI diagnostic operations hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
